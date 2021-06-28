@@ -30,6 +30,6 @@
 	4. `python3 ensemble.py`
 		- Ensembles the 5 models obtained from last step.
 		- Uses the ensembled model to predict all clips in GTZAN.
-		- Saves the result to result.csv
+		- Saves the result to `./result.csv`
 	5. (optional) `python3 calculate_accuracy.py`
 		- Calculates the "single-label" accuracy.
