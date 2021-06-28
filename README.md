@@ -2,7 +2,7 @@
 
 1. report
 2. Steps to reproduce:
-	1. download the GTZAN dataset, the dataset is expected to be stored in `./datasets/GTZAN` and have 10 subdirectories ONLY:
+	1. download the [GTZAN dataset](http://marsyas.info/downloads/datasets.html), the dataset is expected to be stored in `./datasets/GTZAN` and have 10 subdirectories ONLY:
 		```
 		.
 		├── datasets
