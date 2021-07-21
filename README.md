@@ -1,7 +1,6 @@
-# AI2021_Music-Genre-Classification
+# GTZAN-Music-Genre-Classification
 
-1. Report [link](https://drive.google.com/file/d/1IB67xkPpYMxm6RwDL9oGb5PX_TLUm9ek/view?usp=sharing)
-2. Steps to reproduce:
+- Steps to reproduce:
 	1. Download the [GTZAN dataset](http://marsyas.info/downloads/datasets.html), the dataset is expected to be stored in `./datasets/GTZAN` and have 10 subdirectories ONLY. We expect the file structures to be like:
 		```
 		.
